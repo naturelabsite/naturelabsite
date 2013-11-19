@@ -1,2 +1,17 @@
 name: Your New Jekyll Site
 pygments: true
+
+prose:
+	media: 'media'
+	metadata:
+		labs:
+			- name: "tags"
+			  field: 
+				  element: "multiselect"
+				  label: "Tags"
+				  placeholder: "Choose tags"
+				  options:
+					  - name: "Young Children"
+					    value: "young_children"
+					  - name: "Adult"
+					    value: "adult"
