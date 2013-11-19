@@ -121,15 +121,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 1,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -138,6 +129,15 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
+    },
+    "\/_site\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 1,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/jekyll\/update\/2013\/11\/19\/welcome-to-jekyll.html" : {
       "ignoreWasSetByUser" : 0,
@@ -159,6 +159,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/style.css",
       "fileType" : 2,
       "debugStyle" : 2
+    },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/sass\/_html5boilerplate-start.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -205,15 +214,15 @@
       "fileType" : 2,
       "debugStyle" : 2
     },
-    "\/assets\/js\/main.js" : {
+    "\/_site\/assets\/js\/main.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
+      "ignore" : 1,
+      "hidden" : 1,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/main.js",
+      "inputAbbreviatedPath" : "\/_site\/assets\/js\/main.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/assets\/js\/main.min.js",
+      "outputAbbreviatedPath" : "\/_site\/assets\/js\/main.min.js",
       "fileType" : 64
     },
     "\/assets\/sass\/_nav.sass" : {
@@ -228,15 +237,15 @@
       "fileType" : 2,
       "debugStyle" : 2
     },
-    "\/_site\/assets\/js\/main.js" : {
+    "\/assets\/js\/main.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 1,
+      "ignore" : 0,
+      "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/assets\/js\/main.js",
+      "inputAbbreviatedPath" : "\/assets\/js\/main.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/_site\/assets\/js\/main.min.js",
+      "outputAbbreviatedPath" : "\/assets\/js\/main.min.js",
       "fileType" : 64
     }
   },
